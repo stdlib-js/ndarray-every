@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-30)
+## Unreleased (2025-04-10)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`0836dce`](https://github.com/stdlib-js/stdlib/commit/0836dce5df85cb2cc185c65ca839aa99f30eb9e1) - update error message
 -   [`6f61b2d`](https://github.com/stdlib-js/stdlib/commit/6f61b2dfab95f59ff05a07769b777f5012e1c193) - handle edge case when `dims=[]`
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`0836dce`](https://github.com/stdlib-js/stdlib/commit/0836dce5df85cb2cc185c65ca839aa99f30eb9e1) - **fix:** update error message _(by Athan Reines)_
 -   [`b47a8a7`](https://github.com/stdlib-js/stdlib/commit/b47a8a74795416cbf42790c89aedb5d1958c53b1) - **docs:** fix argument name _(by Athan Reines)_
 -   [`fdf4cc1`](https://github.com/stdlib-js/stdlib/commit/fdf4cc10816de43b8a73890e1f93f1635104c79f) - **docs:** fix signature _(by Athan Reines)_
 -   [`1e3aa40`](https://github.com/stdlib-js/stdlib/commit/1e3aa40c44b6d1fe63e8426c9c78ed00ffecc7f0) - **docs:** update copy _(by Athan Reines)_
