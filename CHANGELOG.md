@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-04-18)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`86632f3`](https://github.com/stdlib-js/stdlib/commit/86632f3d1a2de336941303b32e994c870bcaeb71) - check for duplicate indices
 -   [`0836dce`](https://github.com/stdlib-js/stdlib/commit/0836dce5df85cb2cc185c65ca839aa99f30eb9e1) - update error message
 -   [`6f61b2d`](https://github.com/stdlib-js/stdlib/commit/6f61b2dfab95f59ff05a07769b777f5012e1c193) - handle edge case when `dims=[]`
 
@@ -33,6 +34,8 @@
 
 <details>
 
+-   [`86632f3`](https://github.com/stdlib-js/stdlib/commit/86632f3d1a2de336941303b32e994c870bcaeb71) - **fix:** check for duplicate indices _(by Athan Reines)_
+-   [`867f172`](https://github.com/stdlib-js/stdlib/commit/867f172f951619f7ca087c25f7944954198fabb0) - **refactor:** fix argument _(by Athan Reines)_
 -   [`0836dce`](https://github.com/stdlib-js/stdlib/commit/0836dce5df85cb2cc185c65ca839aa99f30eb9e1) - **fix:** update error message _(by Athan Reines)_
 -   [`b47a8a7`](https://github.com/stdlib-js/stdlib/commit/b47a8a74795416cbf42790c89aedb5d1958c53b1) - **docs:** fix argument name _(by Athan Reines)_
 -   [`fdf4cc1`](https://github.com/stdlib-js/stdlib/commit/fdf4cc10816de43b8a73890e1f93f1635104c79f) - **docs:** fix signature _(by Athan Reines)_
