@@ -35,6 +35,7 @@
 
 <details>
 
+-   [`d13a0fc`](https://github.com/stdlib-js/stdlib/commit/d13a0fca7737b8aa0206943ff11a5ca4f0cb3527) - **refactor:** remove unreachable path _(by Athan Reines)_
 -   [`ce50d3e`](https://github.com/stdlib-js/stdlib/commit/ce50d3ecca395ef29f3883a70d8fbf1b3e7f38c1) - **docs:** fix grammar _(by Athan Reines)_
 -   [`6f6da0a`](https://github.com/stdlib-js/stdlib/commit/6f6da0afaa12ef31691ae659f6a005f140d81cd1) - **fix:** add missing argument to format strings _(by Philipp Burckhardt)_
 -   [`64b7801`](https://github.com/stdlib-js/stdlib/commit/64b7801d3202b603b6014e0a065d0ddff2f9fce8) - **docs:** update comment _(by Athan Reines)_
